@@ -20792,4 +20792,26 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   margin: 0;
 }
 
-/*# sourceMappingURL=kit-free.css.map */
+.hero-brand h1{
+
+  font-weight: 500;
+  text-align: center;
+  color: white;
+  font-size: 40.0px;
+}
+
+.hero-brand h3 {
+  font-weight: 500;
+  text-align: center;
+  color: white;
+  font-size: 30.0px;
+}
+
+@media (orientation: portrait) {
+  .hero-brand h1{
+    font-size: 30px;
+  }
+  .hero-brand h3 {
+    font-size: 20px;
+  }
+}
