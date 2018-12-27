@@ -20814,4 +20814,7 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   .hero-brand h3 {
     font-size: 20px;
   }
+  .event-image{
+    padding: 10px;
+  }
 }
