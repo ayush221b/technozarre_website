@@ -21810,6 +21810,11 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   .event-image {
     padding: 10px;
   }
+
+  .logos img {
+    padding: 10% 0;
+    height: 150px;
+  }
 }
 
 .companies-section {
@@ -21822,4 +21827,17 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   height: 280px;
   width: auto;
   padding: 5%;
+}
+
+.logos{
+  padding: 5% 0;
+}
+
+.logos img{
+  max-height: 200px;
+  padding: 0 5%;
+}
+
+.main{
+  overflow-x:hidden;
 }
