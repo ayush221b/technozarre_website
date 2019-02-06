@@ -21812,8 +21812,11 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   }
 
   .logos img {
-    padding: 10% 0;
+    padding: 20px;
     height: 150px;
+  }
+  .row .logos{
+    padding: 20px 0;
   }
 }
 
@@ -21834,7 +21837,7 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
 }
 
 .logos img{
-  max-height: 200px;
+  max-height: 100px;
   padding: 0 5%;
 }
 
