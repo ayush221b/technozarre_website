@@ -21841,6 +21841,10 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
   padding: 0 5%;
 }
 
+.logos a{
+  padding: 0 2%;
+}
+
 .main{
   overflow-x:hidden;
 }
